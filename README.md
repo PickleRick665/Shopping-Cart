@@ -1,4 +1,4 @@
-# co097427c919a8af765b6a9ed
+# Shopping-Cart
 
 Quick start:
 
@@ -7,6 +7,8 @@ $ npm install
 $ npm start
 ````
 
+
+Head over to https://shoppingcart2357.netlify.app/ to view the website
 Head over to https://vitejs.dev/ to learn more about using vite
 ## About Scrimba
 
